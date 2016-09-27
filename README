@@ -5,13 +5,13 @@ This is a blank project.  Start by editing your application's app.js to
 make your first mobile project using Titanium.
 
 ## Motive for development
-	- Disaster message can't be sent all of citizen cause of physical and technical limitation.
-	- If there are people who receive disaster message firstly, we can resend to our friends and family using SMS or Push Message.
-	- Needs to Increase efficiency of sending disaster message.
+	- Disaster message can't be sent to all of the citizens due to physical and technical limitations.
+	- If there are people who receive disaster message firstly, they can resend them to their friends and family by using SMS or Push Message.
+	- Increase efficiency of 'sending disaster message' technique.
 
 ## Basis of development
 	- Actually, all of GSM/CDMA communication did not work. VOIP based messenger properly worked during japaness earthquake(2011).
-	- The most mobile companies provide 'free SMS service'. we used this.
+	- Most mobile companies provide 'free SMS service'. we used this service.
 
 ## Goal
 	- Push and SMS send/receive
