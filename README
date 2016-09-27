@@ -5,7 +5,7 @@ This is a blank project.  Start by editing your application's app.js to
 make your first mobile project using Titanium.
 
 ## Motive for development
-	- Disaster message can't be sent to all of the citizens due to physical and technical limitations.
+	- Disaster messages can't be sent to all of the citizens due to physical and technical limitations.
 	- If there are people who receive disaster message firstly, they can resend them to their friends and family by using SMS or Push Message.
 	- Increase efficiency of 'sending disaster message' technique.
 
